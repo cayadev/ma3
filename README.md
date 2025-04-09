@@ -6,8 +6,8 @@
 | Student name | Student ID |
 | --- | --- |
 | Sarah Sejr Aagaard | 152058 |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Caya Isaksen | 145615 |
+| Hannah Faurschou | 144450 |
 
 ***
 
